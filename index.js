@@ -1,1 +1,7 @@
-console.log("Hello worldsfdd"),console.log("Heavy")
+console.log("Hello "),
+console.log("Heavy");
+
+function A(){
+    console.log("hhh")
+}
+A()
